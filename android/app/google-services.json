@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737782762547",
+    "project_id": "listflutter-55701",
+    "storage_bucket": "listflutter-55701.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737782762547:android:2ce9904b1cac7e06f86746",
+        "android_client_info": {
+          "package_name": "com.example.app_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVfFOxY72PzC4puuBLzckA6J1xsjnk-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737782762547:android:1afc96ff7d133e40f86746",
+        "android_client_info": {
+          "package_name": "com.example.listflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoVfFOxY72PzC4puuBLzckA6J1xsjnk-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
